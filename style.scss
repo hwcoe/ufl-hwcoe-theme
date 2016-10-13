@@ -1,0 +1,35 @@
+/*
+Theme Name: UFL Athena
+Theme URI: http://law.ufl.edu/
+Description: A WordPress theme developed for the University of Florida, UF LAW
+Version: 1.0
+Author: UF LAW
+*/
+
+@import 'assets/css/_reset';
+@import 'assets/css/_variables';
+@import 'assets/css/_mixins';
+@import 'assets/css/_grid';
+@import 'assets/css/_fonts';
+
+@import 'assets/css/_format';
+
+@import 'assets/css/_header';
+@import 'assets/css/_footer';
+@import 'assets/css/_alertModule';
+@import 'assets/css/_breadcrumbs';
+
+@import 'assets/css/_horizontalScrollEl';
+
+@import 'assets/css/_home';
+@import 'assets/css/_landingPage';
+@import 'assets/css/_programList';
+@import 'assets/css/_article';
+@import 'assets/css/_tables';
+@import 'assets/css/_courses';
+@import 'assets/css/_faculty';
+@import 'assets/css/_searchResult';
+@import 'assets/css/_breaker';
+@import 'assets/css/_bioModule';
+@import 'assets/css/_statModule';
+@import 'assets/css/_contentBoxModule';
